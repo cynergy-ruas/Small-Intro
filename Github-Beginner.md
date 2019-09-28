@@ -1,8 +1,3 @@
----
-typora-copy-images-to: ./
-typora-root-url: ./
----
-
 # GitHub for Beginners
 
 > ***Author: Chirag Mittal*** 	***Batch: 7***
